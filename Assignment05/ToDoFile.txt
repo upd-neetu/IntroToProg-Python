@@ -1,0 +1,3 @@
+Complete assignment,high
+Submit assignment,high
+Understand python dictionary more,low
